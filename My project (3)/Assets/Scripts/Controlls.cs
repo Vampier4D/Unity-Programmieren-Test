@@ -89,7 +89,7 @@ public class SC_FPSController : MonoBehaviour
                     runningSpeed = 55f;
                     break;
                 case "JumpPad":
-                    jumpSpeed = 25f;
+                    jumpSpeed = 30f;
                     break;
                 case "Ground":
                 walkingSpeed = 10f;
